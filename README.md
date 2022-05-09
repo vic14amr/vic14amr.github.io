@@ -9,4 +9,4 @@ Contenido:
 - Ejemplo de contenido realizado con ARJS Studio https://ar-js-org.github.io/studio/pages/marker/index.html  
 
 
-
+update. abril 2022
